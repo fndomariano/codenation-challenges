@@ -10,7 +10,7 @@ Este repositório é para armazenar as resoluções dos desafios propostos no [A
 
 ## Executando
 
-Para executar os projetos eu us o Docker.
+Para executar os projetos eu uso o Docker.
 
 ```bash
 docker-compose up

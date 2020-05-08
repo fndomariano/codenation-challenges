@@ -8,6 +8,7 @@ Este repositório é para armazenar as resoluções dos desafios propostos no [A
 - [Pré-processamento de dados em Python](./data-science-0/main.ipynb)
 - [Análise de dados exploratória](./coestatistica-1/coestatistica-1.ipynb)
 - [Funções de probabilidade](./data-sciense-1/main.ipynb)
+- [Funções de probabilidade](./data-sciense-2/main.ipynb)
 
 ## Executando
 

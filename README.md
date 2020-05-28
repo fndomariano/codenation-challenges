@@ -10,6 +10,7 @@ Este repositório é para armazenar as resoluções dos desafios propostos no [A
 - [Funções de probabilidade](./data-science-1/main.ipynb)
 - [Funções de probabilidade](./data-science-2/main.ipynb)
 - [Redução de dimensionalidade](./data-science-3/main.ipynb)
+- [Feature engineering]((./data-science-4/main.ipynb))
 
 ## Executando
 
